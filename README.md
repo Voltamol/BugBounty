@@ -1,6 +1,6 @@
 # BugBounty
 program to detect bugs in code
-
+![Pylint Illustration](illustration.webp)
 A Code linter, is a static code analysis tool used to:
 - flag programming errors,
 - bugs,
