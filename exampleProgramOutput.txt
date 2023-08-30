@@ -1,0 +1,11 @@
+************* Module exampleProgram
+exampleProgram.py:5:0: C0304: Final newline missing (missing-final-newline)
+exampleProgram.py:1:0: C0103: Module name "exampleProgram" doesn't conform to snake_case naming style (invalid-name)
+exampleProgram.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+exampleProgram.py:1:0: C0103: Constant name "a" doesn't conform to UPPER_CASE naming style (invalid-name)
+exampleProgram.py:2:0: C0103: Constant name "b" doesn't conform to UPPER_CASE naming style (invalid-name)
+exampleProgram.py:3:0: C0103: Constant name "c" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+--------------------------------------------------------------------
+Your code has been rated at -5.00/10 (previous run: -5.00/10, +0.00)
+
