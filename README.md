@@ -14,3 +14,18 @@ Everyone knows that programming errors are bad. Some errors cause:
 
 Linting is an essential process and __code linters are available across programming languages__. Here, will work specifically on the Python Linter aka Pylint.
 Pylint checks your code against the `norms stated in the styling guide` for Python as stated in PEP-8.
+
+Pylint is a tool that:
+- checks for errors in Python code
+- tries to enforce a coding standard and
+- looks for __code smells__.
+- It can also look for certain type errors,
+- it can recommend suggestions about how particular blocks can be refactored and
+- can offer you details about the code’s complexity.
+
+Pylint will display:
+- a number of messages as it analyzes the code and
+- it can also be used for displaying some statistics about the number of warnings and errors found in different files.
+The messages are classified under various categories such as errors and warnings.
+
+_Last but not least, the code is given an overall mark, based on the number and severity of the warnings and errors_
